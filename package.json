@@ -1,0 +1,19 @@
+{
+  "name": "tour-fe-project",
+  "version": "1.0.0",
+  "description": "It is a frontend project of tours ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K-K-KRISHNA/TOURS-FE.git"
+  },
+  "author": "K-K-KRISHNA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/K-K-KRISHNA/TOURS-FE/issues"
+  },
+  "homepage": "https://github.com/K-K-KRISHNA/TOURS-FE#readme"
+}
