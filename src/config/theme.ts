@@ -1,7 +1,7 @@
 import { createTheme } from "@mui/material";
 
 export const fonts = {
-  primary: "lato",
+  primary: "Poppins",
   secondry: "Arial",
 };
 

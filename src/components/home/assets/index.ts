@@ -1,1 +1,1 @@
-export const home = require('./home.png');
+export const homeBg = require("./LoaderBgImg.jpg");
